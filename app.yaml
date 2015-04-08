@@ -1,4 +1,4 @@
-application: your-app-id-here
+application: vburninproxy
 version: first
 module: default
 runtime: python27
